@@ -1,2 +1,3 @@
 # NewSlickness
-NewSlickness GTK 2.x Theme
+
+NewSlickness is a grey theme with dark highlights for GTK2.x and Metacity.
