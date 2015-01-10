@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=NewSlickness
+Type=X-GNOME-Metatheme
+Comment=A black, white and grey theme by Ian MacGregor
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=NewSlickness
+MetacityTheme=NewSlickness
+IconTheme=gnome-carbonite
+CursorTheme=DMZ-Black
+CursorSize=24
+NotificationTheme=ubuntu
+ButtonLayout=close,minimize,maximize:menu
